@@ -1,0 +1,56 @@
+body{
+    
+    font-family: 'Montserrat', sans-serif;
+    background-color:rgb(245, 245, 245);
+}
+.card {
+    width: 650px;
+    height: 350px;
+    background-color:white;
+    border-radius: 15px;
+    box-shadow: 4px 4px 20px gainsboro ;
+}
+.img {
+    margin-top: -75px;
+}
+.description{
+    margin-top: -380px;
+}
+
+.price h2,p {
+    display: inline-block;
+}
+
+.price h2 {
+    margin-left: 20px;
+}
+
+.description {
+    margin-left: 20px;
+}
+
+.description h2 {
+    color: #000000;
+}
+
+.description p {
+    width: 250px;
+}
+
+.card img {
+    width: 700px;
+    height: 500px;
+    margin-left: 120px;
+    
+}
+
+button {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+    padding: 8px;
+    border-radius: 15px;
+    stroke: 5px;
+    
+    
+}
